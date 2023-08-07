@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629614644621",
+    "project_id": "ilwoof-13eb0",
+    "storage_bucket": "ilwoof-13eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629614644621:android:434cf0d6dc5daf9a7ec1c4",
+        "android_client_info": {
+          "package_name": "com.example.ilwoof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629614644621-n2cpptni5d1n917gnavquiq0mlre0mq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kGr3i02h-wBplEzlzIkkec2y2n7r8BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629614644621-n2cpptni5d1n917gnavquiq0mlre0mq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
